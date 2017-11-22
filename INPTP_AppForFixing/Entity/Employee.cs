@@ -9,7 +9,7 @@ namespace INPTP_AppForFixing
     public class Employee
     {
         private int id;
-        private string firstName;
+        private string firstNameddddd;
         private string lastName;
         private string job; 
         private DateTime ourBirthDate;
